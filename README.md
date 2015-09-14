@@ -9,4 +9,4 @@ Completed:
 * [x] Required: User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [x] Required: Settings page to change the default tip percentage.
 
-![Video Walkthrough](name of your gif file.gif)
+![Video Walkthrough](walkthrough.gif)
